@@ -8,7 +8,6 @@ int num = int.Parse(Console.ReadLine());
 
 int temp_num = num;
 int sum = 0;
-int ost = 1;
 
 while (temp_num / 10 > 0)
 {
